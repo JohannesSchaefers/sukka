@@ -6,7 +6,8 @@ public class Main {
 
         System.out.println("gg");
         System.out.println("gg");
-
+        System.out.println("gg");
+        System.out.println("sucker");
 
 	// write your code here
     }
