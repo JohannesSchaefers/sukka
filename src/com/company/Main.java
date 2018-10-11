@@ -14,11 +14,12 @@ public class Main {
 
         System.out.println("8");
         System.out.println("9");
+        System.out.println("10");
+        System.out.println("11");
 
 
 
 
-
-        // write your code here
+	// write your code here
     }
 }
